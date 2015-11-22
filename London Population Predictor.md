@@ -6,11 +6,9 @@ date: 22nd November 2015
 2/5 Why is a population predictor needed?
 ========================================================
 
-This year, London's population reached 8.6m, its highest figure ever.
+This year, London's population reached 8.6m, its highest figure ever. According to predictions, it could grow by a further 2m people over the next few years.
 
 ![alt text](http://static.standard.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2013/12/23/11/street.jpg)
-
-Accurding to predictions, it could grow by a further 2m people over the next few years.
 
 
 
@@ -43,29 +41,6 @@ For years 2001-2014, these are based on counts and for future years the value is
 
 5/5 Outputs
 ========================================================
-
-
-delete me
-========================================================
-
-
-
-
-```r
-summary(cars)
-```
-
-```
-     speed           dist       
- Min.   : 4.0   Min.   :  2.00  
- 1st Qu.:12.0   1st Qu.: 26.00  
- Median :15.0   Median : 36.00  
- Mean   :15.4   Mean   : 42.98  
- 3rd Qu.:19.0   3rd Qu.: 56.00  
- Max.   :25.0   Max.   :120.00  
-```
-
-![plot of chunk unnamed-chunk-3](London Population Predictor-figure/unnamed-chunk-3-1.png) 
-
-
-
+As well as instantly providing the result that you are looking for, an overview graph of all years is also shown. 
+<br>
+![alt text](https://raw.githubusercontent.com/Paul-Hodgson/shiny-pop/master/Screenshot.png)
